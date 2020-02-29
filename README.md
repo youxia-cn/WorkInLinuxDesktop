@@ -23,3 +23,5 @@
 + [Linux 桌面玩家指南：18. 使用 Docker 隔离自己的开发环境和部署环境](https://www.cnblogs.com/youxia/p/LinuxDesktop018.html)
 + [Linux 桌面玩家指南：19. 深入理解 JavaScript，及其开发调试工具](https://www.cnblogs.com/youxia/p/LinuxDesktop019.html)
 + [Linux 桌面玩家指南：20. 把 Linux 系统装入移动硬盘打包带走](https://www.cnblogs.com/youxia/p/LinuxDesktop020.html)
+
+Ubuntu 20.04 就要发布了，想想就有点激动呢！
